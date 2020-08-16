@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106697819247",
+    "firebase_url": "https://ilml-1747b.firebaseio.com",
+    "project_id": "ilml-1747b",
+    "storage_bucket": "ilml-1747b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106697819247:android:d24887b2b490ffd3eeb99a",
+        "android_client_info": {
+          "package_name": "com.example.imagelablingfirebaseml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106697819247-soh51s4fpghpd135pptbeksgh1ia7m8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_wHq9y8BVuWqOWvt-_vOg8V4YBoX2lJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106697819247-soh51s4fpghpd135pptbeksgh1ia7m8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
